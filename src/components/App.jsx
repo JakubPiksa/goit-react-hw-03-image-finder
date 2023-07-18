@@ -1,4 +1,4 @@
-import './App.css';
+import css from './app.module.css'
 import user from './user/user.json';
 import friendsData from './friends/friends.json';
 import data from './data/data.json';
@@ -10,7 +10,7 @@ import { TransactionHistory } from './transactions/transactions.jsx';
 
 function App() {
   return (
-    <div>
+    <div className={css.body}>
       <Profile
         username={user.username}
         tag={user.tag}
