@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PasteURLfromGHPagesHERE/static/css/main.4d2a6eb9.css",
+    "main.js": "/PasteURLfromGHPagesHERE/static/js/main.755068b1.js",
+    "index.html": "/PasteURLfromGHPagesHERE/index.html",
+    "main.4d2a6eb9.css.map": "/PasteURLfromGHPagesHERE/static/css/main.4d2a6eb9.css.map",
+    "main.755068b1.js.map": "/PasteURLfromGHPagesHERE/static/js/main.755068b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2a6eb9.css",
+    "static/js/main.755068b1.js"
+  ]
+}
