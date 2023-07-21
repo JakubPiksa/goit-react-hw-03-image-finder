@@ -3,7 +3,7 @@ import css from './imageGalleryItem.module.css';
 
 const ImageGalleryItem = ({ image, onClick }) => {
   return (
-    <li className={css['gallery-item']}>
+    <li className={css.galleryItem}>
       <img src={image.webformatURL} alt="" onClick={onClick} />
     </li>
   );
